@@ -1,2 +1,2 @@
-# react-webpack-template
-Template for react and webpack
+# react-tailwind-webpack
+Project using React tailwind and webpack
